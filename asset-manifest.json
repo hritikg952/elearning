@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/elearning/static/css/main.efcfb551.chunk.css",
+    "main.js": "/elearning/static/js/main.1cdb9cb7.chunk.js",
+    "main.js.map": "/elearning/static/js/main.1cdb9cb7.chunk.js.map",
+    "runtime-main.js": "/elearning/static/js/runtime-main.56fc7d93.js",
+    "runtime-main.js.map": "/elearning/static/js/runtime-main.56fc7d93.js.map",
+    "static/js/2.4da538d9.chunk.js": "/elearning/static/js/2.4da538d9.chunk.js",
+    "static/js/2.4da538d9.chunk.js.map": "/elearning/static/js/2.4da538d9.chunk.js.map",
+    "index.html": "/elearning/index.html",
+    "static/css/main.efcfb551.chunk.css.map": "/elearning/static/css/main.efcfb551.chunk.css.map",
+    "static/js/2.4da538d9.chunk.js.LICENSE.txt": "/elearning/static/js/2.4da538d9.chunk.js.LICENSE.txt",
+    "static/media/Group 930.e97b5e41.png": "/elearning/static/media/Group 930.e97b5e41.png",
+    "static/media/Group931.2d175856.png": "/elearning/static/media/Group931.2d175856.png",
+    "static/media/Rectangle -1.a0ee8d52.png": "/elearning/static/media/Rectangle -1.a0ee8d52.png",
+    "static/media/Rectangle -2.639a46c1.png": "/elearning/static/media/Rectangle -2.639a46c1.png",
+    "static/media/Rectangle 223.5807038e.png": "/elearning/static/media/Rectangle 223.5807038e.png",
+    "static/media/Rectangle 224.ab3a4c57.png": "/elearning/static/media/Rectangle 224.ab3a4c57.png",
+    "static/media/Rectangle 233.e7a2ecbd.png": "/elearning/static/media/Rectangle 233.e7a2ecbd.png",
+    "static/media/Rectangle 236.f296afd4.png": "/elearning/static/media/Rectangle 236.f296afd4.png",
+    "static/media/Student (23).c50f9827.png": "/elearning/static/media/Student (23).c50f9827.png",
+    "static/media/people-section.b37b604a.png": "/elearning/static/media/people-section.b37b604a.png",
+    "static/media/section1.module.css": "/elearning/static/media/section1Background.f821c7b4.png",
+    "static/media/testimonials-section.714e9f04.png": "/elearning/static/media/testimonials-section.714e9f04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56fc7d93.js",
+    "static/js/2.4da538d9.chunk.js",
+    "static/css/main.efcfb551.chunk.css",
+    "static/js/main.1cdb9cb7.chunk.js"
+  ]
+}

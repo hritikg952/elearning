@@ -1,0 +1,126 @@
+.container {
+  height: 650px;
+  width: 100%;
+  background-image: url("./../../assets/section1Background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.header {
+  padding: 1rem 2rem;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header a {
+  text-decoration: none;
+  color: rgb(48, 48, 80);
+  font-size: 1.2rem;
+}
+
+.firstDiv {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.firstDiv a {
+  font-weight: 700;
+}
+
+.firstDiv h1 {
+  color: rgb(116, 196, 246);
+  font-size: 2.5rem;
+}
+
+.secondDiv {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.secondDiv > * {
+  margin: 0 1.2rem;
+}
+
+.secondDiv a {
+  font-weight: 500;
+}
+
+.getStartedButton {
+  background-color: rgb(48, 48, 80);
+  border: none;
+  border-radius: 3px;
+  color: aliceblue;
+  padding: 0.5rem 0.9rem;
+  font-weight: 600;
+  outline: none;
+  cursor: pointer;
+}
+
+.searchButton {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.contentFirstDiv {
+  margin: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.contentFirstDiv h1 {
+  line-height: 1;
+  font-size: 4.8rem;
+  color: rgb(48, 48, 80);
+  margin-bottom: 1.7rem;
+}
+.contentFirstDiv p {
+  font-size: 1.9rem;
+  color: rgb(143, 145, 165);
+  font-weight: 600;
+}
+.contentImage {
+  height: 589px;
+}
+
+.form {
+  position: relative;
+  margin: 30px 0;
+}
+
+.form input {
+  width: 400px;
+  height: 75px;
+  padding: 10px;
+  font-size: 1.3rem;
+  border-radius: 50px;
+  border: none;
+  background-color: rgb(48, 48, 80);
+  outline: none;
+  color: aliceblue;
+}
+.form input::placeholder{
+  color: aliceblue;
+}
+
+.formButton {
+  position: absolute;
+  top: 19px;
+  right: 20px;
+  background-color: transparent;
+  color: aliceblue;
+  border: none;
+  outline: none;
+}
